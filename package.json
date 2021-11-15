@@ -1,0 +1,23 @@
+{
+  "name": "electronjs-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple And Useful ElectronJS Boilerplate",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meer-Mariwan/ElectronJs-Boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Meer Mariwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meer-Mariwan/ElectronJs-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/Meer-Mariwan/ElectronJs-Boilerplate#readme",
+  "devDependencies": {
+    "electron": "^15.3.1"
+  }
+}
